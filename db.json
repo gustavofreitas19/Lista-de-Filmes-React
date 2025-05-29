@@ -1,0 +1,28 @@
+{
+  "filmes": [
+    {
+      "titulo": "The Fast and the Furious",
+      "ano": "2001",
+      "genero": "Action, Crime, Thriller",
+      "status": "assistido",
+      "id": "4285",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGRiMDE1NTMtMThmZS00YjE4LWI1ODQtNjRkZGZlOTg2MGE1XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "id": "32d6",
+      "titulo": "The Fast and the Furious: Tokyo Drift",
+      "ano": "2006",
+      "genero": "Action, Crime, Drama",
+      "status": "assistido",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_SX300.jpg"
+    },
+    {
+      "titulo": "2 Fast 2 Furious",
+      "ano": " 2003",
+      "genero": " Ação/Crime ",
+      "status": "assistido",
+      "id": "f920",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTQzYzEwNWMtOTAwYy00YWYwLWE1NTEtZTkxOGQxZTM0M2VhXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  ]
+}

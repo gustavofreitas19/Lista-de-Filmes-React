@@ -1,0 +1,20 @@
+@import "tailwindcss";
+.app {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  form input {
+    margin-right: 8px;
+    padding: 4px;
+  }
+  
+  button {
+    margin-left: 4px;
+  }
+  
+  .movie-item {
+    margin-bottom: 10px;
+  }
+  
